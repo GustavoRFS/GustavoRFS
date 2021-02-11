@@ -1,4 +1,4 @@
-### Hi there, I'm Gustavo! 👋
+## Hi there, I'm Gustavo! 👋
 
 ---
 
@@ -21,7 +21,7 @@
 
 ---
 
-##### Languages and technologies that I study
+### Languages and technologies that I study
 
 ![C++](https://img.shields.io/badge/-C++-555555?style=flat&logo=c%2B%2B)
 ![JavaScript](https://img.shields.io/badge/-Javascript-555555?style=flat&logo=javascript)
@@ -34,7 +34,7 @@
 
 ![React Native](https://img.shields.io/badge/-React%20Native-555555?style=flat&logo=react)
 
-#### Languages and technologies I want to learn
+### Languages and technologies I want to learn
 
 ![Python](https://img.shields.io/badge/-Python-555555?style=flat&logo=python)
 ![GoLang](https://img.shields.io/badge/-Go-555555?style=flat&logo=go)
@@ -43,8 +43,10 @@
 
 ---
 
-#### Git Stats
+### Git Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=GustavoRFS&show_icons=true&theme=blueberry)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRFS&layout=compact&theme=blueberry)
+
+PT | [EN](https://github.com/GustavoRFS/GustavoRFS/blob/main/README.en-US.md)
