@@ -1,6 +1,6 @@
  <p style="text-align:right"> PT | <a href="https://github.com/GustavoRFS/GustavoRFS/blob/main/README.en-US.md">EN</a> </p>
 
-## Hi there, I'm Gustavo! 👋
+## Olá, meu nome é Gustavo! 👋
 
 - 🎓 Estudante de Ciência da Computação na Universidade Federal de Lavras - UFLA
 - 💻 Sou um desenvolvedor Back-end e brinco de full-stack
@@ -21,7 +21,7 @@
 
 ---
 
-### Languages and technologies that I study
+### Linguages e tecnologias que eu estudo
 
 ![C++](https://img.shields.io/badge/-C++-555555?style=flat&logo=c%2B%2B)
 ![JavaScript](https://img.shields.io/badge/-Javascript-555555?style=flat&logo=javascript)
@@ -34,7 +34,7 @@
 
 ![React Native](https://img.shields.io/badge/-React%20Native-555555?style=flat&logo=react)
 
-### Languages and technologies I want to learn
+### Linguagens e tecnologias que eu quero aprender
 
 ![Python](https://img.shields.io/badge/-Python-555555?style=flat&logo=python)
 ![GoLang](https://img.shields.io/badge/-Go-555555?style=flat&logo=go)
@@ -43,7 +43,7 @@
 
 ---
 
-### Git Stats
+### Dados do GitHub
 
 ![](https://github-readme-stats.vercel.app/api?username=GustavoRFS&show_icons=true&theme=blueberry)
 
