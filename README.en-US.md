@@ -7,12 +7,12 @@
 - 📫 You can reach me with the links below
 
 <a target="_blank" href="https://www.linkedin.com/in/GustavoRFS/">
-  <img align="left" alt="LinkedIN" width="18px" src="https://logospng.org/download/linkedin/logo-linkedin-icon-2048.png" />
+  <img align="left" alt="LinkedIN" width="25px" src="https://logospng.org/download/linkedin/logo-linkedin-icon-2048.png" />
 <a target="_blank" href="https://www.instagram.com/garnstavo">
-  <img align="left" alt="Instagram" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" />
+  <img align="left" alt="Instagram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" />
 </a>
 <a target="_blank" href="mailto:gustavoribeiro.ribeiro1@gmail.com">
-  <img align="left" alt="E-mail" width="18px" src="https://www.flaticon.com/svg/vstatic/svg/4205/4205709.svg?token=exp=1613029182~hmac=49ecd2ff923834184f3dd625cac162dc" />
+  <img align="left" alt="E-mail" width="25px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" />
 </a>
 
 ---
