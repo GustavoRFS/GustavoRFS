@@ -1,4 +1,6 @@
-## Hi there, I'm Gustavo! 👋 <p style="text-align:right">PT | [EN](https://github.com/GustavoRFS/GustavoRFS/blob/main/README.en-US.md)</p>
+ <p style="text-align:right"> PT | <a href="https://github.com/GustavoRFS/GustavoRFS/blob/main/README.en-US.md">EN</a> </p>
+
+## Hi there, I'm Gustavo! 👋
 
 - 🎓 Estudante de Ciência da Computação na Universidade Federal de Lavras - UFLA
 - 💻 Sou um desenvolvedor Back-end e brinco de full-stack
