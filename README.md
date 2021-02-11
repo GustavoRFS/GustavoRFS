@@ -1,6 +1,4 @@
-## Hi there, I'm Gustavo! 👋
-
----
+## Hi there, I'm Gustavo! 👋 <p style="text-align:right">PT | [EN](https://github.com/GustavoRFS/GustavoRFS/blob/main/README.en-US.md)</p>
 
 - 🎓 Estudante de Ciência da Computação na Universidade Federal de Lavras - UFLA
 - 💻 Sou um desenvolvedor Back-end e brinco de full-stack
@@ -48,5 +46,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=GustavoRFS&show_icons=true&theme=blueberry)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRFS&layout=compact&theme=blueberry)
-
-PT | [EN](https://github.com/GustavoRFS/GustavoRFS/blob/main/README.en-US.md)
