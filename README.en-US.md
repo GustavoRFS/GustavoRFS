@@ -19,23 +19,26 @@
 
 ### Languages and technologies that I study
 
-![C++](https://img.shields.io/badge/-C++-555555?style=flat&logo=c%2B%2B)
-![JavaScript](https://img.shields.io/badge/-Javascript-555555?style=flat&logo=javascript)
+![C++](https://img.shields.io/badge/-C++-333?style=for-the-badge&logo=c%2B%2B)
+![JavaScript](https://img.shields.io/badge/-Javascript-333?style=for-the-badge&logo=javascript)
 
-![Node.js](https://img.shields.io/badge/-Node.js-555555?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/-ExpressJS-555555?style=flat&logo=express)
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/-ExpressJS-333?style=for-the-badge&logo=express)
 
-![Vue.JS](https://img.shields.io/badge/-Vue.js-555555?style=flat&logo=vue.js)
-![React JS](https://img.shields.io/badge/-React-555555?style=flat&logo=react)
+![Vue.JS](https://img.shields.io/badge/-Vue.js-333?style=for-the-badge&logo=vue.js)
+![React JS](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=react)
 
-![React Native](https://img.shields.io/badge/-React%20Native-555555?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-333?style=for-the-badge&logo=react)
 
 ### Languages and technologies I want to learn
 
-![Python](https://img.shields.io/badge/-Python-555555?style=flat&logo=python)
-![GoLang](https://img.shields.io/badge/-Go-555555?style=flat&logo=go)
+![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/-Django-333?style=for-the-badge&logo=django)
 
-![Electron](https://img.shields.io/badge/-Electron-555555?style=flat&logo=electron)
+![C#](https://img.shields.io/badge/-C%23-333?style=for-the-badge&logo=C-sharp)
+![.NET](https://img.shields.io/badge/-.NET-333?style=for-the-badge&logo=.net)
+
+![Electron](https://img.shields.io/badge/-Electron-333?style=for-the-badge&logo=electron)
 
 ---
 
