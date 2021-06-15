@@ -42,6 +42,9 @@
 ![C#](https://img.shields.io/badge/-C%23-333?style=for-the-badge&logo=C-sharp)
 ![.NET](https://img.shields.io/badge/-.NET-333?style=for-the-badge&logo=.net)
 
+![Java](https://img.shields.io/badge/-JAVA-333?style=for-the-badge&logo=JAVA)
+![Spring](https://img.shields.io/badge/-Spring-333?style=for-the-badge&logo=Spring)
+
 ## ![Electron](https://img.shields.io/badge/-Electron-333?style=for-the-badge&logo=electron)
 
 ### Dados do GitHub
