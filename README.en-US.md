@@ -1,4 +1,4 @@
- <p style="text-align:right"> <a href="https://github.com/GustavoRFS/GustavoRFS/blob/main/README.md">PT </a>| EN </p>
+ <p style="text-align:right"> <a href="https://github.com/GustavoRFS">PT </a>| EN </p>
 
 ## Hi there, I'm Gustavo! 👋
 
