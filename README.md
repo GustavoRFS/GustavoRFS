@@ -3,7 +3,7 @@
 ## Olá, meu nome é Gustavo! 👋
 
 - 🎓 Estudante de Ciência da Computação na Universidade Federal de Lavras - UFLA
-- 💻 Sou um desenvolvedor Back-end e brinco de full-stack
+- 💻 Sou um desenvolvedor Back-end e aspirante a Full-Stack
 - 📫 Você pode me encontrar nos links abaixo
 
 <a target="_blank" href="https://www.linkedin.com/in/GustavoRFS/">
