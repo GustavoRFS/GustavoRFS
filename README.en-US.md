@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Gustavo! 👋
 
-- 🎓Computer science student at UFLA (Brazil)
+- 🎓Computer science student at Universidade Federal de Lavras - UFLA
 - 💻 I'm a Back-End developer trying to be a Full-Stack
 - 📫 You can reach me with the links below
 
