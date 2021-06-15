@@ -4,7 +4,7 @@
 
 - 🎓Computer science student at Universidade Federal de Lavras - UFLA
 - 💻 I'm a Back-End developer trying to be a Full-Stack
-- 📫 You can reach me with the links below
+- 📫 You can reach me at the links below
 
 <a target="_blank" href="https://www.linkedin.com/in/GustavoRFS/">
   <img align="left" alt="LinkedIN" width="25px" src="https://logospng.org/download/linkedin/logo-linkedin-icon-2048.png" />
