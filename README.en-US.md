@@ -50,4 +50,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=GustavoRFS&show_icons=true&theme=blueberry)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRFS&layout=compact&theme=blueberry)
 
-[PT](https://github.com/GustavoRFS/GustavoRFS/blob/main/README.md) | EN
+[PT](https://github.com/GustavoRFS) | EN
