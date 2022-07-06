@@ -24,6 +24,9 @@
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/-ExpressJS-333?style=for-the-badge&logo=express)
+ 
+![C#](https://img.shields.io/badge/-C%23-333?style=for-the-badge&logo=C-sharp)
+![.NET](https://img.shields.io/badge/-.NET-333?style=for-the-badge&logo=.net)
 
 ![Vue.JS](https://img.shields.io/badge/-Vue.js-333?style=for-the-badge&logo=vue.js)
 ![React JS](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=react)
@@ -34,12 +37,6 @@
 
 ![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/-Django-333?style=for-the-badge&logo=django)
-
-![C#](https://img.shields.io/badge/-C%23-333?style=for-the-badge&logo=C-sharp)
-![.NET](https://img.shields.io/badge/-.NET-333?style=for-the-badge&logo=.net)
- 
-![Java](https://img.shields.io/badge/-JAVA-333?style=for-the-badge&logo=JAVA)
-![Spring](https://img.shields.io/badge/-Spring-333?style=for-the-badge&logo=Spring)
 
 ![Electron](https://img.shields.io/badge/-Electron-333?style=for-the-badge&logo=electron)
 
