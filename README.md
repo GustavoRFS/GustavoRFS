@@ -3,7 +3,7 @@
 ## Olá, meu nome é Gustavo! 👋
 
 - 🎓 Estudante de Ciência da Computação na Universidade Federal de Lavras - UFLA
-- 💻 Sou um desenvolvedor Back-end e aspirante a Full-Stack
+- 💻 Sou um desenvolvedor Full-Stack
 - 📫 Você pode me encontrar nos links abaixo
 
 <a target="_blank" href="https://www.linkedin.com/in/GustavoRFS/">
@@ -51,3 +51,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=GustavoRFS&show_icons=true&theme=blueberry)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRFS&layout=compact&theme=blueberry)
+
+
+<p style="text-align:right"> PT | <a href="https://github.com/GustavoRFS/GustavoRFS/blob/main/README.en-US.md">EN</a> </p>
